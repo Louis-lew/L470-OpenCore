@@ -1,7 +1,7 @@
 # Lenovo L470 OpenCore
 Hackintosh OpenCore 0.7.4 EFI files for Lenovo ThinkPad L470 Monterey (Previosuly Catalina)
 
-![L470](Images/SysInfo.png)
+![L470](Image/SystemInfo.png)
 
 ## Laptop's Hardware
 - <b>Model</b>: Thinkpad L470 (20J4/20J5)
