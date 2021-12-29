@@ -16,7 +16,7 @@ Hackintosh OpenCore 0.7.4 EFI files for Lenovo ThinkPad L470 Monterey (Previosul
 - <b>MousePad</b>: Synaptics
 
 # What's Working?
-- [x] Intel HD 520 Graphics
+- [x] Intel HD 620 Graphics
 - [x] All USB ports
 - [x] Intel I219V Ethernet port
 - [x] Audio
